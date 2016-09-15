@@ -7,8 +7,10 @@ In this way we can have both small scripts and company products under the same s
 ##Checklist
 - [ ] Does it have a README.md file containing: 
 	- [ ] Reason for making the script
-	- [ ] Maintainer/Technical owner
+	- [ ] Maintainer/Technical owner (contact information)
 	- [ ] Example of a valid usage pattern
+	- [ ] Roadmap
+	- [ ] Contribution instructions including how to build and test, how to submit new change
 - [ ] A LICENSE file with MIT license
 - [ ] Pipeline set up at http://code.praqma.net/ci/
 - [ ] Repository and workflow according to the praqmatic workflow http://www.praqma.com/stories/a-pragmatic-workflow/
