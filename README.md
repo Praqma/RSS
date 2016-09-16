@@ -1,6 +1,6 @@
 # Repository structure standards
 We need a common set of standards that each and every repository in praqma possess. 
-The standards should be followed by and opt-out process; you need to comply with everything, unless you have a reason not to.
+The standards should be followed by an opt-out process; you need to comply with everything, unless you have a reason not to.
 In this way we can have both small scripts and company products under the same standard. 
 
 
