@@ -13,6 +13,7 @@ In this way we can have both small scripts and company products under the same s
 - [ ] Pipeline set up at http://code.praqma.net/ci/
 - [ ] Repository and workflow according to the praqmatic workflow http://www.praqma.com/stories/a-pragmatic-workflow/
 - [ ] Subpage on http://code.praqma.com/
+- [ ] Metrics e.g. [Findbugs for java](http://findbugs.sourceforge.net/)
 - [ ] Own site like: http://www.2git.io/
 - [ ] Logo
 - [ ] 
