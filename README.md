@@ -17,7 +17,7 @@ In this way we can have both small scripts and company products under the same s
 - [ ] Metrics e.g. [Findbugs for java](http://findbugs.sourceforge.net/)
 - [ ] Own site like: http://www.2git.io/
 - [ ] Logo
-- [ ]
+- [ ] 
 
 Remember this is a working resource. Some things become obsolete, some things arise as new requirements. Make issues and pull requests whenever needed.
 
